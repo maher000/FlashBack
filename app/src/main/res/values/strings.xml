@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flash Back</string>
+    <string name="title_main">Flash Back</string>
+    <string name="feature_feed_empty_state">No posts yet</string>
+    <string name="add_post_description">Description</string>
+    <string name="add_post_placeholder">Write something about the image…</string>
+    <string name="add_post_submit_button">Submit</string>
+    <string name="capture_image_error_toast_message">Failed to capture image</string>
+
+</resources>
