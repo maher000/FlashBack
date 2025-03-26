@@ -77,6 +77,22 @@ FlashBack allows users to join communities aligned with their interests—such a
 
 ---
 
+## Screenshots
+
+### Feed and profile screen
+<p  style="display: flex; justify-content: center; gap: 40px;" >
+  <img src="feed.png" alt="List View" width="45%" />
+  <img src="profile.png" alt="List View" width="45%" />
+</p>
+
+### Camera and submit screen
+<p  style="display: flex; justify-content: center; gap: 40px;" >
+  <img src="camera.png" alt="List View" width="45%" />
+  <img src="submit.png" alt="List View" width="45%" />
+</p>
+
+---
+
 ## 5. Technologies Used
 
 1. **Kotlin**: The primary programming language for the app.
